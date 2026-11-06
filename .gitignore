@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets and environment
+.env
+
+# Build and logs
+dist/
+*.log
